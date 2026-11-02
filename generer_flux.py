@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 SEARCH_URL = (
     "https://choisirleservicepublic.gouv.fr/"
     "nos-offres/filtres/mot-cles/"
-    "cartogrpahe%20g%C3%A9omaticien/"
+    "cartographe%20g%C3%A9omaticien/"
 )
 
 SITE = "https://choisirleservicepublic.gouv.fr/"
